@@ -1,0 +1,59 @@
+Textures parsed: 395
+Warnings: 7
+Errors: 45
+
+--- Warnings ---
+TEX16032: sprite 6 out of bounds (x=0, y=36, w=8, h=54) for image 256x54
+TEX16032: sprite 7 out of bounds (x=8, y=36, w=240, h=54) for image 256x54
+TEX16032: sprite 8 out of bounds (x=248, y=36, w=8, h=54) for image 256x54
+TEX20010: sprite 4 has non-positive size 0x0
+TEX30022: sprite 0 out of bounds (x=0, y=0, w=100, h=100) for image 99x99
+TEX30024: sprite 0 out of bounds (x=0, y=0, w=1920, h=1080) for image 1280x1024
+TEX32001: sprite 0 out of bounds (x=0, y=0, w=16, h=21) for image 15x18
+
+--- Errors ---
+TEX32: failed to open image (images/options/window02.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Options\\window02.aim'
+TEX33: failed to open image (images/module_stadtkarte/detect.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\module_stadtkarte\\detect.aim'
+TEX35: TextureFile not found: images/background/features1.aim
+TEX36: TextureFile not found: images/logo.jpg
+TEX37: failed to open image (images/text.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\text.aim'
+TEX20037: failed to open image (images/sidemenu/fire.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\sidemenu\\fire.aim'
+TEX21004: TextureFile not found: images/Expedition/gefrbte_Karte.tga
+TEX30025: failed to open image (images/Animationen_Seekarte/WalTP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Animationen_Seekarte\\WalTP.aim'
+TEX30027: failed to open image (images/Animationen_Seekarte/Fisch_springt_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Animationen_Seekarte\\Fisch_springt_TP.aim'
+TEX30030: TextureFile not found: images/Animationen_Seekarte/Mwe_fliegt_TP.bmp
+TEX31003: failed to open image (images/Gebaeude_innen/innenbild_kontor01.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\innenbild_kontor01.aim'
+TEX31024: failed to open image (images/Gebaeude_innen/Kneipe/Kapitaen_HandTP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Kneipe\\Kapitaen_HandTP.aim'
+TEX31027: failed to open image (images/Gebaeude_innen/Kneipe/Kapitaen_trinktTP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Kneipe\\Kapitaen_trinktTP.aim'
+TEX31069: failed to open image (images/Gebaeude_innen/Werft/Flaschenzug/WerftFlaschenzug_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\werft\\Flaschenzug\\WerftFlaschenzug_TP.aim'
+TEX31070: failed to open image (images/Gebaeude_innen/Werft/Moewen/Werft_Moewen_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\werft\\moewen\\Werft_Moewen_TP.aim'
+TEX31071: failed to open image (images/Gebaeude_innen/Werft/Werft_Arbeiter_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\werft\\Werft_Arbeiter_TP.aim'
+TEX31072: failed to open image (images/Gebaeude_innen/Werft/Werft_Wasser_gross_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\werft\\Werft_Wasser_gross_TP.aim'
+TEX31075: failed to open image (images/Gebaeude_innen/Kontor/kontor_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Kontor\\kontor_TP.aim'
+TEX31076: failed to open image (images/Gebaeude_innen/Bad/Badhaus_Dampf_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Bad\\Badhaus_Dampf_TP.aim'
+TEX31082: TextureFile not found: images/Gebaeude_innen/Kneipe/Kneipe_Kapitn_Kerze_TP.bmp
+TEX31084: failed to open image (images/Gebaeude_innen/Gilde/Mann_A_Teil1_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Gilde\\Mann_A_Teil1_TP.aim'
+TEX31085: failed to open image (images/Gebaeude_innen/Gilde/Mann_B_Teil1_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Gilde\\Mann_B_Teil1_TP.aim'
+TEX31088: failed to open image (images/Gebaeude_innen/Gilde/Mann_A_Teil2_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Gilde\\Mann_A_Teil2_TP.aim'
+TEX31089: failed to open image (images/Gebaeude_innen/Gilde/Mann_B_Teil2_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Gilde\\Mann_B_Teil2_TP.aim'
+TEX31091: failed to open image (images/Gebaeude_innen/Bank/DG_schreibt_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\bank\\DG_schreibt_TP.aim'
+TEX31092: failed to open image (images/Gebaeude_innen/Bad/Badhaus_Wasser_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Bad\\Badhaus_Wasser_TP.aim'
+TEX31093: failed to open image (images/Gebaeude_innen/Kontor/kontor_TP2.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Kontor\\kontor_TP2.aim'
+TEX31094: failed to open image (images/Gebaeude_innen/Markt/Markthalle_Frauen_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\markt\\Markthalle_Frauen_TP.aim'
+TEX31095: failed to open image (images/Gebaeude_innen/Markt/Markthalle_Haendler_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\markt\\Markthalle_Haendler_TP.aim'
+TEX31096: failed to open image (images/Gebaeude_innen/Markt/Markthalle_Schatten_Frau_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\markt\\Markthalle_Schatten_Frau_TP.aim'
+TEX31097: failed to open image (images/Gebaeude_innen/Markt/Markthalle_Schatten_Mann_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\markt\\Markthalle_Schatten_Mann_TP.aim'
+TEX31098: failed to open image (images/Gebaeude_innen/Bank/DG_ruhe_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\bank\\DG_ruhe_TP.aim'
+TEX31101: failed to open image (images/Gebaeude_innen/Bad/Badhaus_Wasser_Mann_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Bad\\Badhaus_Wasser_Mann_TP.aim'
+TEX31102: failed to open image (images/Gebaeude_innen/Bad/Badhaus_Mann_trinkt_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Bad\\Badhaus_Mann_trinkt_TP.aim'
+TEX31103: failed to open image (images/Gebaeude_innen/Bad/Badhaus_Mann_ruhe_TP.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Bad\\Badhaus_Mann_ruhe_TP.aim'
+TEX31104: failed to open image (images/Gebaeude_innen/stadttor.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Stadttor.aim'
+TEX31105: failed to open image (images/Gebaeude_innen/pergament.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Pergament.aim'
+TEX31106: failed to open image (images/Gebaeude_innen/kette.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Kette.aim'
+TEX31107: failed to open image (images/Gebaeude_innen/scheune.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Scheune.aim'
+TEX31114: failed to open image (images/Gebaeude_innen/stadttor/basisbild2.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\stadttor\\basisbild2.aim'
+TEX31115: failed to open image (images/Gebaeude_innen/stadttor/anima.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\stadttor\\anima.aim'
+TEX31116: failed to open image (images/Gebaeude_innen/stadttor/animb.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\stadttor\\animb.aim'
+TEX31117: failed to open image (images/Gebaeude_innen/scheune/pferd.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\Scheune\\pferd.aim'
+TEX31118: failed to open image (images/Gebaeude_innen/stadttor/hauptmann.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Gebaeude_innen\\stadttor\\hauptmann.aim'
+TEX32000: failed to open image (images/Schiffe/page_schiffe.aim): cannot identify image file 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\images\\Schiffe\\page_schiffe.aim'
