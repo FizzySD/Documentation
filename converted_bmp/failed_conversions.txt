@@ -1,0 +1,119 @@
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_feuer_gross.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_feuer_gross.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_feuer_gross.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_feuer_gross.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_creatureschiffuntergangpage.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_creatureschiffuntergangpage.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_creatureschiffuntergangpage.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_creatureschiffuntergangpage.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_bogenpfeil_feuer.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_bogenpfeil_feuer.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_bogenpfeil_feuer.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_bogenpfeil_feuer.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_BogenPfeilShd.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_BogenPfeilShd.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_BogenPfeilShd.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_BogenPfeilShd.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_feuer_gross.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_feuer_gross.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_feuer_gross.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_feuer_gross.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_bogenpfeil_feuer.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_bogenpfeil_feuer.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_bogenpfeil_feuer.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_bogenpfeil_feuer.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_BogenPfeilShd.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_BogenPfeilShd.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_BogenPfeilShd.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_BogenPfeilShd.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_feuer_klein.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_feuer_klein.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_feuer_klein.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_feuer_klein.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_rauchanimpage.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_rauchanimpage.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_rauchanimpage.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_rauchanimpage.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_p_rauch_a.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_p_rauch_a.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_p_rauch_a.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_p_rauch_a.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_creatureschiffuntergangpage.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_creatureschiffuntergangpage.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_creatureschiffuntergangpage.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_creatureschiffuntergangpage.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_p_rauch_a.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_p_rauch_a.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_p_rauch_a.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_p_rauch_a.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_rauchanimpage.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_rauchanimpage.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_rauchanimpage.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_rauchanimpage.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_feuer_klein.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_feuer_klein.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_feuer_klein.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_feuer_klein.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_treib_b_0.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_treib_b_0.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_treib_b_0.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_treib_b_0.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_treib_d_0.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_treib_d_0.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_treib_d_0.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_treib_d_0.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_treib_c_0.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_treib_c_0.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_treib_c_0.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_treib_c_0.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_treib_b_0.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_treib_b_0.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_treib_b_0.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_treib_b_0.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_treib_c_0.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_treib_c_0.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_treib_c_0.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_treib_c_0.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_treib_d_0.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_treib_d_0.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_treib_d_0.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_treib_d_0.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_XBowBolzenShd.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_XBowBolzenShd.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_XBowBolzenShd.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_XBowBolzenShd.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_xbowbolzen_feuer.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_xbowbolzen_feuer.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_xbowbolzen_feuer.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_xbowbolzen_feuer.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\clouds_lokal03.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\clouds_lokal03.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\clouds_lokal03.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\clouds_lokal03.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_XBowBolzenShd.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_XBowBolzenShd.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_XBowBolzenShd.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_XBowBolzenShd.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_waffenexplosionpage.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_waffenexplosionpage.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_waffenexplosionpage.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_waffenexplosionpage.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_waffenexplosionpage.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_waffenexplosionpage.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_waffenexplosionpage.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_waffenexplosionpage.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\_X_xbowbolzen_feuer.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\_X_xbowbolzen_feuer.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\_X_xbowbolzen_feuer.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\_X_xbowbolzen_feuer.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\clouds_lokal05.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\clouds_lokal05.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\clouds_lokal05.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\clouds_lokal05.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\clouds_lokal03.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\clouds_lokal03.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\clouds_lokal03.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\clouds_lokal03.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\clouds_lokal04.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\clouds_lokal04.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\clouds_lokal04.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\clouds_lokal04.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\clouds_lokal06.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\clouds_lokal06.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\clouds_lokal06.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\clouds_lokal06.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\clouds_lokal06.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\clouds_lokal06.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\clouds_lokal06.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\clouds_lokal06.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\clouds_lokal05.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\clouds_lokal05.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\clouds_lokal05.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\clouds_lokal05.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\clouds_lokal04.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\clouds_lokal04.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\clouds_lokal04.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\clouds_lokal04.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\clouds_lokal07.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\clouds_lokal07.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\clouds_lokal07.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\clouds_lokal07.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\clouds_lokal08.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\clouds_lokal08.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\clouds_lokal08.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\clouds_lokal08.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\module_stadtkarte\Feuer_Haus.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\module_stadtkarte\Feuer_Haus.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\module_stadtkarte\\Feuer_Haus.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\module_stadtkarte\\Feuer_Haus.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\clouds_lokal07.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\clouds_lokal07.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\clouds_lokal07.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\clouds_lokal07.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\module_stadtkarte\Feuer_Haus.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\module_stadtkarte\Feuer_Haus.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\module_stadtkarte\\Feuer_Haus.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\module_stadtkarte\\Feuer_Haus.bmp'], 3221225477, '', '')
+
+Failed converting C:\Users\marzi\Desktop\Patrician 3\output1\test2\images\creatures\clouds_lokal08.aim -> C:\Users\marzi\Desktop\Patrician 3\output1\test2\.out\converted_bmp\creatures\clouds_lokal08.bmp
+Last attempt: (['C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\aimConverter.exe', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\images\\creatures\\clouds_lokal08.aim', 'C:\\Users\\marzi\\Desktop\\Patrician 3\\output1\\test2\\.out\\converted_bmp\\creatures\\clouds_lokal08.bmp'], 3221225477, '', '')
